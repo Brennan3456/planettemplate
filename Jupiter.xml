@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Jupiter.xsl"?>
+<Planet>
+  <Jupiter>
+    <PlanetName> Jupiter </PlanetName>
+    <PlanetType> This is the info for the planet and what kind of planet it is </PlanetType>
+    <MoonInfo> This is info for the planet if it has any moons and what is important about these moons </MoonInfo>
+    <significantInfo> significant info like Saturns rings or Mars and its cold temp </significantInfo>
+    <Missions> This will hold any info on the current missions for this planet </Missions>
+    <Video1> Vidya one </Video1>
+    <Video2> Vidya two </Video2>
+  </Jupiter>
+</Planet>
